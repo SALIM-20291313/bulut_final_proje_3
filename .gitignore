@@ -1,0 +1,8 @@
+﻿node_modules/
+.env
+proje_aws_icin_hazir.zip
+artifacts/
+cache/
+.idea/
+.vscode/
+
